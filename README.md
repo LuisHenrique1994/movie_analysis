@@ -1,6 +1,6 @@
 # movie_analysis
 
-Project to analysis movie's datasets
+Movie analysis project
 
 
-by: Marcus, Kouamé, Ruchi, Shola and Henrique.
+By: Marcus, Kouamé, Ruchi, Shola and Henrique.
